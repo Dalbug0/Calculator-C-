@@ -21,3 +21,9 @@
 
 - Предотвращение повторного нажатия на кнопку десятичной запятой
 - Защита от деления на ноль
+
+## Основное окно программы
+
+<div style="border: 2px solid black; padding: 5px; display: inline-block;">
+  <img src="./main-window.png" alt="Основное окно программы">
+</div>
