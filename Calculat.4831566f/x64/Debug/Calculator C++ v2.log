@@ -1,0 +1,20 @@
+﻿  MyForm.cpp
+E:\Учеба\2 семестр\Calculator C++ v2\MyForm.h(991,19): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+E:\Учеба\2 семестр\Calculator C++ v2\MyForm.h(997,41): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+E:\Учеба\2 семестр\Calculator C++ v2\MyForm.h(998,19): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+E:\Учеба\2 семестр\Calculator C++ v2\MyForm.h(1004,41): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+E:\Учеба\2 семестр\Calculator C++ v2\MyForm.h(1013,18): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm1.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator C++ v2.vcxproj -> E:\Учеба\2 семестр\Calculator C++ v2\x64\Debug\Calculator C++ v2.exe
